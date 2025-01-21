@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshithalwai
-- 👀 I’m interested in NEW TECHNOLOGIES, HACKING , INDIAN AIR FORCE.
+- 👀 I’m interested in NEW TECHNOLOGIES, HACKING .
 - 🌱 I’m currently learning DATA STRUCTURE AND ALGORITHMS WITH C++ , PYTHON .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta : @harshitgupta356
