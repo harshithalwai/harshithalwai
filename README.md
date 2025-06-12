@@ -4,7 +4,7 @@
 ---
 
 - 💼 Currently working at **TCS** (Ignite Program)
-- 👨‍💻 Graduate in **BCA + MCA** from **CSJM University, Kanpur**
+- 👨‍💻 Graduate in **BCA** from **CSJM University, Kanpur**
 - 🌱 Learning **Data Structures & Algorithms (C++)**, **Machine Learning**, and **System Design**
 - 🔧 Skilled in **MERN Stack**, **Python**, **Tkinter**, **MySQL**, **Node.js**, and **ReactJS**
 - 🚀 Building:  
